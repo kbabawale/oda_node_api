@@ -1,6 +1,5 @@
 var FCM = require("fcm-node");
-var serverKey =
-   "AAAAtQtusQI:APA91bF9z-OZaEIdocvR7GGLEzkbMEHYFvPQHVryf0vf9htq2mjXB8LG8yMApWkeIaUihGyHI6MefPi732ixWQbUaelYskKNO-9e4UiwaASuWWGx_TnZ074eCehUXQg0Kyb7VIEG9vRD";
+//var serverKey = "";
 //put your server key here
 var fcm = new FCM(serverKey);
 
