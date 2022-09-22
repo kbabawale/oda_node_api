@@ -1,14 +1,5 @@
 {
 
   "type": "service_account",
-  "project_id": "proud-research-832",
-  "private_key_id": "914b52ebaa45b5781d5edfe99fe938e5e2dea2bd",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9RXv3d0P2iguF\nC0Wp7qD5CEFLYxKl1bZoLLUOYyFqsv67RTRLnhGZRsiYiwdXgQZYx0C9LGmkTjnF\neW9Xr4Slvd9el0X1tStMaOCJ8VCsLCOSGHxriFftkJJadHXmLMRR5KHU7KnYbsoV\njHuhiucrWdSYi7fIFHPNZ46pnFwdI5zV4bcPy2pgBmj8hDjklVXb9dzMa4VWV9g0\nc3mZnht++yDMRf5Rmn0vIfXMLNNi7rFujV8kBZ1thsDuT4g9itj5ngwAvey+rTqB\nADMaXNfhvGNr8cJCUw4S6zu6USIVwyg8n4iuGjNrCU45f/PbWhlSS4z/8AO2Nxqz\nCejfaEfpAgMBAAECggEAFK+jMqMFmcyxIR+gA8hZrhYdospnd5oBt2WJfVLOzG1X\nQ2r3Ifua80xl8KwjR4hJxAq08+gGfMdy73cL+QKtJfs4TkuMwSPFoXKF9fWaqlKh\nqZ5E/PC4IXYPVNUNLLTAWS36lP2vu4CyVAQYYAnBJb8J6gk9MyAvHug+UqHM/H8f\nSwr3GGEsSLJInlGjBuDg8iiXyNIWAX5bVl8U5a+4WwVZs1sIAm6sXRrUADE7vcF0\ntTd5e1MTevlDgnHhhNG566WPfoaCYRImTIQjQngqctnmKL2BMv+Lxsxv18F4JN6j\nen7cJ3TlJK1SsgWeFiDs3aJCkUNyUBCjhzuKXO0ygQKBgQD0luVpcyihfQQKPkZp\nfvjx86p1BJwQuVZPKIH5LjozBbXSDydmqmw/DCfYGQzYp1TxRPdy9LGAJLtJc8+B\n2PofRIVLnj3YM38AH4oZiOVW3HriNqgDStavMsMCbLpcEYWWhMKENpt44it7llXZ\npXA9MByfPW06EciN5YIX3paJKQKBgQDGGe5sCFSGbpmjp/BwA5ZNg8FXjrOljpk7\nm1ZFbeEEHolE4ogO8nPT5/HdeS5nMAk1ZNiCSLzr3MmOIWl3EQEaTPDTCciObwQc\n0UJ/qDNOICEULUkIh4m1uLgFQhHCkH5s+y1mveJVcK4q3kSb52i/Z69huAnW1s0C\nO5T3Ko/gwQKBgQDPhMeYNHCgsyUeW7/5+hTVk9tn9UVEmzszZjcAZ8xRReMCGoFf\nhfDZfULBAl/34eEb41vfWOTQyFlu9Kd2j9WHeeduRRBLw0VZoWjWSWPr0p0gGSdr\nw69qbjMud3mWa/dfwbwX2Q0H/zzNWrv0MX2NLKjcIo3t2vDCE5vRDLXEIQKBgGxN\nPviW8UbxblN3e85xV5mXH3tzy6kGNaXNvbOFZ9AttZQQWJv7VvGRy7vuBT1qmI41\nTNylUYuNEDAA+jya8kRjrgFiRt//t3rduII7/ZiHni3+t//Owa20h/5v6W+6OTPx\nehfCVduqF73d+BpXv/9sewhsagynMDs5Qa6C+VfBAoGAROSOyXqGUFloQzXvlFl7\nz1WBTvzoA7Krb7NrNE+JBm9cJ1nnV+rmXHXUs02wZ6WJsnRdjAjM3Y8iVi9tiEYF\n1rm7igRmZQNWJr0Rg641VEUljbUL0l6BHCXsuQNQT0qMFMe/W9TO3YlpU2yROstB\nEdn23/czoacYnLjiJZSyV9k=\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-fmv8e@proud-research-832.iam.gserviceaccount.com",
-  "client_id": "100701659304568341175",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fmv8e%40proud-research-832.iam.gserviceaccount.com"
-
+  "project_id": ""
 }
